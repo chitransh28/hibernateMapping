@@ -1,0 +1,7 @@
+com\hibernate\model\onetomany\Employeer.class
+com\hibernate\model\onetomany\Company.class
+com\hibernate\model\onetoone\RegistrationMain.class
+com\hibernate\model\onetoone\RegistrationCar.class
+com\hibernate\model\onetoone\RegistrationDetail.class
+com\hibernate\util\HibernateUtil.class
+com\hibernate\model\onetomany\CompanyEmpMain.class
